@@ -1,5 +1,3 @@
-# Smart-notice-board
-
 # Smart Notice Board using ESP8266
 
 ## Overview
@@ -21,12 +19,12 @@ This project is a **Smart Notice Board** controlled via a web interface, built u
 
 ## Circuit Connections
 | ESP8266 Pin | MAX7219 Pin |
-|-------------|------------=|
-| D8 (GPIO15) | CS          |
-| D7 (GPIO13) | DIN         |
-| D5 (GPIO14) | CLK         |
-| 3.3V        | VCC         |
-| GND         | GND         |
+|------------|------------|
+| D8 (GPIO15) | CS |
+| D7 (GPIO13) | DIN |
+| D5 (GPIO14) | CLK |
+| 3.3V        | VCC |
+| GND         | GND |
 
 ## Installation & Setup
 ### 1. Install Required Libraries
