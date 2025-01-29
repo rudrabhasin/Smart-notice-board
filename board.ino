@@ -10,7 +10,7 @@
 MD_Parola P = MD_Parola(HARDWARE_TYPE, CS_PIN, MAX_DEVICES);
 
 const char* ssid = "ENTER YOUR SSID";       //SSID
-const char* password = "ENTER YOUR";      //PASSWORD
+const char* password = "ENTER YOUR PASSWORD";      //PASSWORD
 
 WiFiServer server(80);
 
